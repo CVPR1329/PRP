@@ -1,5 +1,5 @@
 # PRP
-This is the implementation of our paper "[Video Playback Rate Perception for Self-supervised Spatio-Temporal Representation Learning]".
+This is the implementation of our paper "Video Playback Rate Perception for Self-supervised Spatio-Temporal Representation Learning".
 
 ### Environments
 * Ubuntu 16.04
